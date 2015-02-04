@@ -1,0 +1,3 @@
+/dist/
+/vagrant_environment.egg-info/
+*.pyc
